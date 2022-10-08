@@ -2,6 +2,11 @@
 
 ### 1.1.0
 
+- ignore public shares
+- ignore direct shares to user
+- catch exception on unrelated entities
+- cleaning code
+- more tests
 
 
 ### 1.0.0
